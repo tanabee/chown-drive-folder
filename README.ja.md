@@ -14,3 +14,7 @@ Google Apps Script で Google Drive のフォルダ内のファイル群のオ�
 6. `function` > `main` を選択
 7. `実行` ボタンを選択
 8. Google Drive でフォルダを開いて、権限変更が反映されていれば OK 
+
+## Links
+
+- 解説記事: https://qiita.com/tanabee/items/da897eee4dac7b90aa24
